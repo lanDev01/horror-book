@@ -8,12 +8,14 @@
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  overflow: hidden;
 }
 
 body {
   text-align: center;
   padding-top: 160px;
-  background-image: url(https://i.ibb.co/P1s4QPY/background-image.jpg);
+  background-image: url(./assets/background-image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
